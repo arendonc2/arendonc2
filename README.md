@@ -6,7 +6,7 @@ Soy estudiante de **Ingeniería de Sistemas con énfasis en Ciencia de Datos en 
 
 Me interesa construir soluciones eficientes que permitan aprovechar al máximo la tecnología. Mi principal interés profesional está en el **análisis, la ingeniería y la ciencia de datos**, aunque también estoy abierto a oportunidades relacionadas con el desarrollo de software.
 
-Actualmente estoy buscando oportunidades de **prácticas profesionales**, con disponibilidad apartir de diciembre de 2026, en modalidad presencial, híbrida o remota.
+Actualmente estoy buscando oportunidades de **prácticas profesionales**, con disponibilidad a partir de diciembre de 2026, en modalidad presencial, híbrida o remota.
 
 📍 Medellín, Colombia
 🎓 Graduación estimada: primer semestre de 2027
@@ -16,7 +16,6 @@ Actualmente estoy buscando oportunidades de **prácticas profesionales**, con di
 
 ## 🚀 Áreas de interés
 
-* Análisis de datos
 * Ciencia e ingeniería de datos
 * Inteligencia artificial
 * Desarrollo backend con Python y Django
@@ -116,7 +115,7 @@ La plataforma centraliza la información relacionada con los incidentes y facili
 
 ## 🤝 Experiencia extracurricular
 
-Formo parte del [Periodico Estudiantil Nexos](https://www.instagram.com/periodiconexos/?hl=es-la)
+Formo parte del [Periódico Estudiantil Nexos](https://www.instagram.com/periodiconexos/?hl=es-la)
 
 He participado en las áreas de:
 
@@ -139,8 +138,6 @@ Esta experiencia me ha permitido fortalecer habilidades como:
 
 ## 🎯 Objetivo profesional
 
-Busco realizar mis prácticas profesionales en un entorno donde pueda continuar desarrollando mis conocimientos en análisis de datos, ciencia de datos, inteligencia artificial o desarrollo de software.
-
 Me interesa formar parte de equipos en los que pueda aprender, aportar soluciones y participar en proyectos tecnológicos con impacto real.
 
 ---
@@ -151,8 +148,6 @@ Me interesa formar parte de equipos en los que pueda aprender, aportar solucione
 * **LinkedIn:** [Alejandro Rendon Correa](https://www.linkedin.com/in/alejandro-rendon-correa-143bb3324/)
 
 ---
-
-> Estoy abierto a oportunidades de prácticas profesionales, proyectos colaborativos y espacios de aprendizaje relacionados con datos, inteligencia artificial y desarrollo de software.
 
 <!--
 **arendonc2/arendonc2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
