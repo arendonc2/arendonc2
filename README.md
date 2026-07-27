@@ -32,8 +32,6 @@ Actualmente estoy buscando oportunidades de **prácticas profesionales**, con di
 * Python
 * Django
 * Git y GitHub
-* HTML
-* CSS
 
 ### Conocimientos básicos
 
@@ -41,6 +39,9 @@ Actualmente estoy buscando oportunidades de **prácticas profesionales**, con di
 * Java
 * Docker
 * React
+* HTML
+* CSS
+* Javascript
 * Inteligencia artificial generativa
 * Integración de APIs de inteligencia artificial
 
