@@ -145,7 +145,7 @@ Me interesa formar parte de equipos en los que pueda aprender, aportar solucione
 ## 📫 Contacto
 
 * **Correo:** [rendonco1726@gmail.com](mailto:rendonco1726@gmail.com)
-* **LinkedIn:** [Alejandro Rendon Correa](https://www.linkedin.com/in/alejandro-rendon-correa-143bb3324/)
+* **LinkedIn:** [Alejandro Rendon Correa](https://www.linkedin.com/in/alejandro-rendon-correa/)
 
 ---
 
