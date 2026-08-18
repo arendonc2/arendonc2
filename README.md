@@ -109,7 +109,8 @@ La plataforma centraliza la información relacionada con los incidentes y facili
 ## 📜 Cursos y certificaciones
 
 * **Scrum Fundamentals Certified** — SCRUMstudy
-* **Google AI Essentials** — Google
+* **Pandas** — Kaggle
+* **Intro to SQL** - Kaggle
 
 ---
 
